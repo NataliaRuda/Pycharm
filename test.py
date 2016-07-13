@@ -64,4 +64,5 @@ out.click()
 
 # back = driver.find_element_by_xpath("//*[@id='popup-cashier-deposit']/div[2]/div[1])
 # back.click()
+print('smth')
 
